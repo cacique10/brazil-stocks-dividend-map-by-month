@@ -1,0 +1,21 @@
+
+
+	09/07/24
+		
+	------------------------------------------------------------------------------
+	
+	
+	
+	Project Objectives:
+
+		- Learn and pratice more web scraping
+			-> with selenium
+			
+		- Scrap data and use for personal investiment porpuse
+			-> information for which stock to buy, looking for the DY by month, for the past 10 years
+		
+		
+	Project Focus:
+
+		- Manipulate web data with selenium and pandas
+		- Facilitate decisions based on criteria above
